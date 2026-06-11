@@ -8,6 +8,8 @@ app_port: 20915
 ---
 docker 版java-xah 
 
+下载命令 git clone https://github.com/18686187636/docker-java-xah.git
+
 运行前自行修改application.yml和Dokerfile里带注释部分参数
 
 cd /path/to/your/project   # 进入项目目录（确保里面有 Dockerfile）
